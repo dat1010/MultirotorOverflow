@@ -1,4 +1,5 @@
 defmodule MultirotorOverflow.Web do
+  import FontAwesomePhoenix.HTML
   @moduledoc """
   A module that keeps using definitions for controllers,
   views and so on.
